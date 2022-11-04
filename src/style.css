@@ -777,7 +777,7 @@ footer {
   .child-img-aside .aside .aside-all-elements .text-aside {
     text-align: center;
     margin: 0;
-
+    width: 100vw;
     padding: 20px;
   }
 
